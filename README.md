@@ -17,3 +17,19 @@ This project predicts myocardial infarction (heart attack) using ECG data, lever
 - CNN achieved **X% accuracy**, outperforming traditional ML models.  
 
 ## 📂 Project Structure  
+📁 Myocardial-Infarction-Prediction/
+├── 📄 README.md (Project documentation)
+├── 📄 dataset_link.txt (Dataset source link)
+├── 📄 main.py (Dummy script placeholder)
+├── 📄 requirements.txt (Python dependencies)
+
+
+## 🚀 How to Use  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/Myocardial-Infarction-Prediction.git
+
+pip install -r requirements.txt
+python main.py
+
+
