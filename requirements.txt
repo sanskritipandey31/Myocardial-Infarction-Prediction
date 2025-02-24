@@ -1,0 +1,7 @@
+numpy
+pandas
+tensorflow
+scikit-learn
+matplotlib
+dataset_link.txt
+ECG dataset can be downloaded from: https://www.physionet.org/
